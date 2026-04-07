@@ -28,6 +28,7 @@
 ## 📰 News
 - **2025-12-21**: We officially released **Affectron**, along with an interactive demo page showcasing affective and contextually aligned nonverbal vocalizations in emotional speech synthesis.
 - **2025-12-30**: Added comprehensive **Training** and **Inference** guidance to facilitate reproducibility and ease of use.
+- **2026-04-07**: Affectron has been accepted to ACL 2026 Findings 🎉
 
 <br>
 
@@ -36,7 +37,7 @@
 - [x] Environment setup
 - [x] Training guidance
 - [x] Inference guidance
-- [ ] Pretrained checkpoints
+- [x] Pretrained checkpoints
 
 <br>
 
@@ -243,7 +244,7 @@ Generated audio files will be saved under `output_dir`.
 --- 
 ## 3. Pretrained checkpoints
 
-To preserve anonymity and avoid download tracking during the review process, pretrained checkpoints will be released **after the review is completed**.
+[[Checkpoints]](https://works.do/x0a8vHh)
 
 <br>
 
