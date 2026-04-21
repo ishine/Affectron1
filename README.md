@@ -252,3 +252,13 @@ Generated audio files will be saved under `output_dir`.
 ## 4. Acknowledgements
 **Our codes are based on the following repos:**
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft/tree/master)
+
+## Citation
+```bash
+@inproceedings{cho2026affectron,
+  title={Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations},
+  author={Cho, Deok-Hyeon and Oh, Hyung-Seok and Kim, Seung-Bin and Lee, Seong-Whan},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  year={2026}
+}
+```
